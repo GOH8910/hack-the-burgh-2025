@@ -8,8 +8,5 @@ def home():
 if __name__ == "__main__":
     app.run(debug=True)
 
-<<<<<<< HEAD
-    # mel
-=======
     # soo?
->>>>>>> 9e03d7159e154b49feda42e621b79488a67f8886
+    #mel
